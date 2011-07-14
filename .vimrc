@@ -13,3 +13,4 @@ colorscheme slate
 nmap <SPACE> <SPACE>:noh<CR>
 set noautoindent
 set smartindent
+set guifont=Monaco
